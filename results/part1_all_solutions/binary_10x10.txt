@@ -1,0 +1,5 @@
+Duration    Nodes   VarHeuristic    ValHeuristic
+0.15 s	284	Next var in normal order	By diagonal, get random	
+0.15 s	284	Next var in normal order	First from domain	
+22.51 s	38542	Random var	By diagonal, get random	
+15.28 s	24735	Random var	First from domain	
